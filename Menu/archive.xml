@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="17">
+<a class_id="0" tracking_level="0" version="0">
+	<obj.TrainMap class_id="1" tracking_level="0" version="0">
+		<count>2</count>
+		<item_version>0</item_version>
+		<item class_id="2" tracking_level="0" version="0">
+			<first>Jibril</first>
+			<second class_id="3" tracking_level="0" version="0">
+				<obj.CarVector class_id="4" tracking_level="0" version="0">
+					<count>1</count>
+					<item_version>0</item_version>
+					<item class_id="5" tracking_level="0" version="0">
+						<obj.CountPlace>20</obj.CountPlace>
+						<obj.Number>1</obj.Number>
+						<obj.PlaceVector class_id="6" tracking_level="0" version="0">
+							<count>20</count>
+							<item_version>0</item_version>
+							<item class_id="7" tracking_level="0" version="0">
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>1</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>2</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Ios Taor</obj.NamePassenger>
+								<obj.PlaceNumber>3</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>4</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>5</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>6</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>7</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>8</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>9</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>10</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>11</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>12</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>13</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>14</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>15</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>16</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>17</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>18</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>19</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>20</obj.PlaceNumber>
+							</item>
+						</obj.PlaceVector>
+						<obj.TypeRailcar>1</obj.TypeRailcar>
+					</item>
+				</obj.CarVector>
+				<obj.DateArrival>21.11.2010 - 19:20</obj.DateArrival>
+				<obj.DateDeparture>11.11.2010 - 10:00</obj.DateDeparture>
+				<obj.DeparturePoint>Star</obj.DeparturePoint>
+				<obj.Destination>Hell</obj.Destination>
+				<obj.TrainName>Jibril</obj.TrainName>
+			</second>
+		</item>
+		<item>
+			<first>Star</first>
+			<second>
+				<obj.CarVector>
+					<count>3</count>
+					<item_version>0</item_version>
+					<item>
+						<obj.CountPlace>100</obj.CountPlace>
+						<obj.Number>1</obj.Number>
+						<obj.PlaceVector>
+							<count>100</count>
+							<item_version>0</item_version>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>1</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>2</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>3</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>4</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>5</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>6</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>7</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>8</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>9</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Yuiko Jotaro</obj.NamePassenger>
+								<obj.PlaceNumber>10</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>11</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>12</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>13</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>14</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>15</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>16</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>17</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>18</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>19</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>20</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>21</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>22</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>23</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>24</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>25</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>26</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>27</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>28</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>29</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>30</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>31</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>32</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>33</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>34</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>35</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>36</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>37</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>38</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>39</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>40</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>41</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>42</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>43</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>44</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>45</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>46</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>47</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>48</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>49</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>50</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>51</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>52</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>53</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>54</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>55</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>56</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>57</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>58</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>59</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>60</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>61</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>62</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>63</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>64</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>65</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>66</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>67</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>68</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>69</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>70</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>71</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>72</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>73</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>74</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>75</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>76</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>77</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>78</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>79</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>80</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>81</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>82</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>83</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>84</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>85</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>86</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>87</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>88</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>89</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>90</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>91</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>92</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>93</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>94</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>95</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>96</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>97</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Kojumba Ui</obj.NamePassenger>
+								<obj.PlaceNumber>98</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>99</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>100</obj.PlaceNumber>
+							</item>
+						</obj.PlaceVector>
+						<obj.TypeRailcar>1</obj.TypeRailcar>
+					</item>
+					<item>
+						<obj.CountPlace>5</obj.CountPlace>
+						<obj.Number>2</obj.Number>
+						<obj.PlaceVector>
+							<count>5</count>
+							<item_version>0</item_version>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>1</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Jotaro Kodio</obj.NamePassenger>
+								<obj.PlaceNumber>2</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Hideo Kojima</obj.NamePassenger>
+								<obj.PlaceNumber>3</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>4</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>5</obj.PlaceNumber>
+							</item>
+						</obj.PlaceVector>
+						<obj.TypeRailcar>3</obj.TypeRailcar>
+					</item>
+					<item>
+						<obj.CountPlace>20</obj.CountPlace>
+						<obj.Number>3</obj.Number>
+						<obj.PlaceVector>
+							<count>20</count>
+							<item_version>0</item_version>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>1</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>2</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>3</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>4</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Hourado</obj.NamePassenger>
+								<obj.PlaceNumber>5</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>6</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>7</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>8</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>9</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>10</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>11</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>12</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>13</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>14</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>15</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>16</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger>Void Gordon</obj.NamePassenger>
+								<obj.PlaceNumber>17</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>18</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>19</obj.PlaceNumber>
+							</item>
+							<item>
+								<obj.NamePassenger> </obj.NamePassenger>
+								<obj.PlaceNumber>20</obj.PlaceNumber>
+							</item>
+						</obj.PlaceVector>
+						<obj.TypeRailcar>2</obj.TypeRailcar>
+					</item>
+				</obj.CarVector>
+				<obj.DateArrival>11.12.2000 - 13:35</obj.DateArrival>
+				<obj.DateDeparture>11.11.2000 - 10:00</obj.DateDeparture>
+				<obj.DeparturePoint>Tokio</obj.DeparturePoint>
+				<obj.Destination>Oraoraora</obj.Destination>
+				<obj.TrainName>Star</obj.TrainName>
+			</second>
+		</item>
+	</obj.TrainMap>
+</a>
+</boost_serialization>
+
