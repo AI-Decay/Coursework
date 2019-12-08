@@ -73,7 +73,6 @@ void Train::DelPlaceRailcar(unsigned int indexRailcar, unsigned int numberPlace)
 		 CarVector[indexRailcar-1].DelPlace(numberPlace);
 }
 
-
 Train Train::Serialization()
 {
 	return *this;
